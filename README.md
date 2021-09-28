@@ -1,7 +1,7 @@
 ### Hi there, I'm [Jeking!](https://github.com/04zhujunjie/) 👋
 
-- :cn: I’m an iOS developer in Guangzhou
-- :computer: Focusing on Swift & iOS
+- :cn: I’m an iOS developer and web front-end developer in Guangzhou
+- :computer: Focusing on Objective-C、Swift、JavaScript、Vue
 ### Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=04zhujunjie&color=green alt=04zhujunjie /> </p>
 
