@@ -6,8 +6,8 @@
 <p align=left> <img src=https://komarev.com/ghpvc/?username=04zhujunjie&color=green alt=04zhujunjie /> </p>
 
 <p align = "left">  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width = "55%" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=04zhujunjie&show_icons=true&hide=contribs&theme=radical&line_height=34" alt="Jeking's github stats" />
+  <a width = "55%" href="https://github.com/anuraghazra/github-readme-stats">
+  <img  src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=04zhujunjie&show_icons=true&hide=contribs&theme=radical&line_height=34" alt="Jeking's github stats" />
 </a>
 <!--  <img src = "https://github-readme-stats.vercel.app/api?username=04zhuijunjie&count_private=true&show_icons=true&theme=tokyonight&line_height=27">  -->
  <img width = "45%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=04zhujunjie&theme=tokyonight&langs_count=3&line_height=32"> 
