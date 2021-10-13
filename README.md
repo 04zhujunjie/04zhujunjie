@@ -20,9 +20,9 @@
 </p> -->
 <div align = center>
  
- <div  style = "width:90%;background:#f00">
+ <div color = "#f00" style = "width:90%;background:#f00">
   <p align = left>
- <img src=https://komarev.com/ghpvc/?username=04zhujunjie&color=green alt=04zhujunjie />
+  <img src=https://komarev.com/ghpvc/?username=04zhujunjie&color=green alt=04zhujunjie />
   </p>
  </div>
  
