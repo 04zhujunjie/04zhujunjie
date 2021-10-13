@@ -13,7 +13,7 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=04zhujunjie&theme=radical&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=04zhujunjie&theme=radical&hide_langs_below=1&&layout=compact" />
 </a>
 
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
