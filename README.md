@@ -1,10 +1,10 @@
-### Hi there, I'm [Jeking!](https://github.com/04zhujunjie/) 👋
+#### Hi there, I'm [Jeking!](https://github.com/04zhujunjie/) 👋
 
 - :cn: I’m an iOS developer and web front-end developer in Guangzhou
 - :computer: Focusing on Objective-C、Swift、JavaScript、Vue
-### Some of my Github Stats
+#### Some of my Github Stats
 <p align = left>
- &emsp;
+ &emsp;&emsp;
  <img src=https://komarev.com/ghpvc/?username=04zhujunjie&color=green alt=04zhujunjie />
 </p>
 
@@ -20,11 +20,11 @@
 </p> -->
 <div align = center>
  
- <div color = "#f00" style = "width:90%;background:#f00">
+<!--  <div color = "#f00" style = "width:90%;background:#f00">
   <p align = left>
   <img src=https://komarev.com/ghpvc/?username=04zhujunjie&color=green alt=04zhujunjie />
   </p>
- </div>
+ </div> -->
  
 <div align = center style = "display: flex;justify-content:space-between;">
   <img width = "56%" src="https://github-readme-stats.vercel.app/api?username=04zhujunjie&show_icons=true&hide=contribs&theme=tokyonight&line_height=33" alt="Jeking's github stats" />
