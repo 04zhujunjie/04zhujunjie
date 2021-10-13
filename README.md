@@ -13,25 +13,26 @@
  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=04zhujunjie&theme=tokyonight&langs_count=3"> 
 </p>
 
-<!-- <p align = "left">
- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=04zhujunjie&show_icons=true&hide=contribs&theme=radical&line_height=40" alt="Jeking's github stats" />
-</a>
-</p> -->
-
-
 <p align = "center">
- <img align="center" src="https://github-profile-trophy.vercel.app/?username=04zhujunjie&theme=dracula" />
+<a href="https://github.com/wangscaler/myblog">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wangscaler&repo=myblog&theme=tokyonight" />
+</a>
+<a href="https://github.com/wangscaler/python-wenzimaoxian ">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wangscaler&repo=python-wenzimaoxian &theme=tokyonight" />
+</a>
+<a href="https://github.com/wangscaler/emqx-exproto-python-sdk">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wangscaler&repo=emqx-exproto-python-sdk&theme=tokyonight" />
+</a>
+<a href="https://github.com/wangscaler/emqx-extension-examples">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wangscaler&repo=emqx-extension-examples&theme=tokyonight" />
+</a>
 </p>
 
 
-<!-- &hide=contribs -->
-<!-- <p align = "left">
- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-<!--   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=04zhujunjie&theme=radical&hide_langs_below=1&&layout=compact" /> -->
-</a>
+<!-- <p align = "center">
+ <img align="center" src="https://github-profile-trophy.vercel.app/?username=04zhujunjie&theme=dracula" />
 </p> -->
+
 
 
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
