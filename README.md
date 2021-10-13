@@ -4,7 +4,7 @@
 - :computer: Focusing on Objective-C、Swift、JavaScript、Vue
 ### Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=04zhujunjie&color=green alt=04zhujunjie /> </p>
-<p align = "center">
+<p align = "left">
  <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=04zhujunjie&show_icons=true&hide=contribs&theme=radical&line_height=40" alt="Jeking's github stats" />
 </a>
@@ -12,7 +12,7 @@
 
 
 <!-- &hide=contribs -->
-<p align = "center">
+<p align = "left">
  <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=04zhujunjie&theme=radical&hide_langs_below=1&&layout=compact" />
