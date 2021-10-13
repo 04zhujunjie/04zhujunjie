@@ -7,7 +7,7 @@
 
 <p align = "center">  
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=04zhujunjie&show_icons=true&hide=contribs&theme=radical&line_height=40" alt="Jeking's github stats" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=04zhujunjie&show_icons=true&hide=contribs&theme=radical&line_height=30" alt="Jeking's github stats" />
 </a>
 <!--  <img src = "https://github-readme-stats.vercel.app/api?username=04zhuijunjie&count_private=true&show_icons=true&theme=tokyonight&line_height=27">  -->
  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=04zhujunjie&theme=tokyonight&langs_count=3"> 
