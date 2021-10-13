@@ -27,7 +27,7 @@
  
  </br>
  
- <div style="display: flex;flex-direction:column;margin: 0 auto;">
+ <div align = center style="display: flex;flex-direction:column;">
   <div style = "justify-content:space-between">
  <a align = left href="https://github.com/04zhujunjie/ZJJPopup">
   <img align="center" width = "45%"   src="https://github-readme-stats.vercel.app/api/pin/?username=04zhujunjie&repo=ZJJPopup&theme=tokyonight" />
@@ -83,7 +83,7 @@
 
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
   </br>
- <div style = "margin: 0 auto;">
+ <div align = center>
   <img width = "91%" src="https://activity-graph.herokuapp.com/graph?username=04zhujunjie&theme=react-dark">
  </div>
 
