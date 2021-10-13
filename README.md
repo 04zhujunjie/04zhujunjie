@@ -4,10 +4,16 @@
 - :computer: Focusing on Objective-C、Swift、JavaScript、Vue
 ### Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=04zhujunjie&color=green alt=04zhujunjie /> </p>
+
 <p align = "left">
  <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=04zhujunjie&show_icons=true&hide=contribs&theme=radical&line_height=40" alt="Jeking's github stats" />
 </a>
+</p>
+
+
+<p align = "center">
+ <img align="center" src="https://github-profile-trophy.vercel.app/?username=04zhujunjie&theme=dracula" />
 </p>
 
 
