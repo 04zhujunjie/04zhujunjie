@@ -6,7 +6,7 @@
 <p align=left> <img src=https://komarev.com/ghpvc/?username=04zhujunjie&color=green alt=04zhujunjie /> </p>
 
 <p align = center>  
-  <img width = "60%" src="https://github-readme-stats.vercel.app/api?username=04zhujunjie&show_icons=true&hide=contribs&theme=tokyonight&line_height=30.98" alt="Jeking's github stats" />
+  <img width = "60%" src="https://github-readme-stats.vercel.app/api?username=04zhujunjie&show_icons=true&hide=contribs&theme=tokyonight&line_height=30.99" alt="Jeking's github stats" />
 <!--  <img src = "https://github-readme-stats.vercel.app/api?username=04zhuijunjie&count_private=true&show_icons=true&theme=tokyonight&line_height=27">  -->
  <img width = "35%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=04zhujunjie&theme=tokyonight&langs_count=3"> 
 </p>
