@@ -12,6 +12,9 @@
  <img width = "35%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=04zhujunjie&theme=tokyonight&langs_count=3"> 
 </p>
 
+<p align = "center">
+ <img align="center" src="https://github-profile-trophy.vercel.app/?username=04zhujunjie&theme=tokyonight" />
+</p>
 
 <p align = center>
 <a  href="https://github.com/04zhujunjie/ZJJPopup">
@@ -27,12 +30,6 @@
   <img align="center" width = "47.6%"  src="https://github-readme-stats.vercel.app/api/pin/?username=04zhujunjie&repo=JJFontFit&theme=tokyonight" />
 </a>
 </p>
-
-
-<!-- <p align = "center">
- <img align="center" src="https://github-profile-trophy.vercel.app/?username=04zhujunjie&theme=dracula" />
-</p> -->
-
 
 
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
