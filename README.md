@@ -70,8 +70,8 @@
 
 
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
-<p align = center>
- <img width = "96%" src="https://activity-graph.herokuapp.com/graph?username=04zhujunjie&theme=react-dark">
+<p align = left>
+ <img width = "91%" src="https://activity-graph.herokuapp.com/graph?username=04zhujunjie&theme=react-dark">
 </p>
 
 
