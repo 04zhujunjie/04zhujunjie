@@ -5,8 +5,13 @@
 ### Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=04zhujunjie&color=green alt=04zhujunjie /> </p>
 
-<p align = "center">  <img src = "https://github-readme-stats.vercel.app/api?username=04zhuijunjie&count_private=true&show_icons=true&theme=tokyonight&line_height=27"> 
- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=04zhujunjie&theme=tokyonight& langs_count=3"> </p>
+<p align = "center">  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=04zhujunjie&show_icons=true&hide=contribs&theme=radical&line_height=40" alt="Jeking's github stats" />
+</a>
+<!--  <img src = "https://github-readme-stats.vercel.app/api?username=04zhuijunjie&count_private=true&show_icons=true&theme=tokyonight&line_height=27">  -->
+ <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=04zhujunjie&theme=tokyonight&langs_count=3"> 
+</p>
 
 <!-- <p align = "left">
  <a href="https://github.com/anuraghazra/github-readme-stats">
