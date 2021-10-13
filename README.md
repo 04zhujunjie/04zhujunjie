@@ -13,7 +13,23 @@
  <img  src = "https://github-readme-stats.vercel.app/api/top-langs/?username=04zhujunjie&theme=tokyonight&langs_count=3"> 
 </p>
 
-<p align = "left">
+
+<div>
+  <div>
+    <a href="https://github.com/04zhujunjie/ZJJTimeCountDown">
+  <img align="center" width = "50%" src="https://github-readme-stats.vercel.app/api/pin/?username=04zhujunjie&repo=ZJJTimeCountDown&theme=tokyonight" />
+</a>
+<a href="https://github.com/04zhujunjie/ZJJPopup">
+  <img align="center" width = "50%"  src="https://github-readme-stats.vercel.app/api/pin/?username=04zhujunjie&repo=ZJJPopup&theme=tokyonight" />
+</a>
+  </div>
+  
+   <div>
+     
+  </div>
+</div>
+
+<!-- <p align = "left">
 <a href="https://github.com/04zhujunjie/ZJJTimeCountDown">
   <img align="center" width = "25%" src="https://github-readme-stats.vercel.app/api/pin/?username=04zhujunjie&repo=ZJJTimeCountDown&theme=tokyonight" />
 </a>
@@ -26,7 +42,7 @@
 <a href="https://github.com/04zhujunjie/JJFontFit">
   <img align="center" width = "25%"  src="https://github-readme-stats.vercel.app/api/pin/?username=04zhujunjie&repo=JJFontFit&theme=tokyonight" />
 </a>
-</p>
+</p> -->
 
 
 <!-- <p align = "center">
