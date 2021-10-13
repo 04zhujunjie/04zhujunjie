@@ -5,7 +5,7 @@
 ### Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=04zhujunjie&color=green alt=04zhujunjie /> </p>
 
-<p align = left>  
+<p align = center>  
   <a  href="https://github.com/anuraghazra/github-readme-stats">
   <img width = "60%" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=04zhujunjie&show_icons=true&hide=contribs&theme=radical&line_height=30.95" alt="Jeking's github stats" />
 </a>
@@ -14,7 +14,7 @@
 </p>
 
 
-<p align = left>
+<p align = center>
 <a  href="https://github.com/04zhujunjie/ZJJTimeCountDown">
   <img align="center" width = "47%" src="https://github-readme-stats.vercel.app/api/pin/?username=04zhujunjie&repo=ZJJTimeCountDown&theme=tokyonight" />
 </a>
@@ -37,7 +37,7 @@
 
 
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
-<p align = left>
+<p align = center>
  <img width = "100%" src="https://activity-graph.herokuapp.com/graph?username=04zhujunjie&theme=react-dark">
 </p>
 
