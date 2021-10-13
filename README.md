@@ -18,9 +18,9 @@
  <img width = "60%" src="https://github-readme-stats.vercel.app/api?username=04zhujunjie&show_icons=true&hide=contribs&theme=tokyonight&line_height=31" alt="Jeking's github stars" />
  <img width = "35%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=04zhujunjie&theme=tokyonight&langs_count=3"> 
 </p> -->
-<div style = "display: flex;flex-direction:column;align-items:center;justify-content:center">
+<div align = center style = "display: flex;flex-direction:column;align-items:center;justify-content:center">
  
-<div style = "display: flex;justify-content:space-between;margin: 0 auto;">
+<div align = center style = "display: flex;justify-content:space-between;margin: 0 auto;">
   <img width = "56%" src="https://github-readme-stats.vercel.app/api?username=04zhujunjie&show_icons=true&hide=contribs&theme=tokyonight&line_height=33" alt="Jeking's github stats" />
  <img width = "35%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=04zhujunjie&theme=tokyonight&langs_count=3"> 
  </div>
