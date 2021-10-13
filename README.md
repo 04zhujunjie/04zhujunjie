@@ -4,6 +4,7 @@
 - :computer: Focusing on Objective-C、Swift、JavaScript、Vue
 ### Some of my Github Stats
 <p align = left>
+ &emsp;&emsp;
  <img src=https://komarev.com/ghpvc/?username=04zhujunjie&color=green alt=04zhujunjie />
 </p>
 <p align = center>  
