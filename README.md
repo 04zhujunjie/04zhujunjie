@@ -7,10 +7,10 @@
 
 <p align = "left">  
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width = "60%" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=04zhujunjie&show_icons=true&hide=contribs&theme=radical&line_height=32" alt="Jeking's github stats" />
+  <img width = "400px" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=04zhujunjie&show_icons=true&hide=contribs&theme=radical&line_height=32" alt="Jeking's github stats" />
 </a>
 <!--  <img src = "https://github-readme-stats.vercel.app/api?username=04zhuijunjie&count_private=true&show_icons=true&theme=tokyonight&line_height=27">  -->
- <img width = "40%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=04zhujunjie&theme=tokyonight&langs_count=3"> 
+ <img width = "250px" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=04zhujunjie&theme=tokyonight&langs_count=3"> 
 </p>
 
 <p align = "left">
