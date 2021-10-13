@@ -23,8 +23,8 @@
 <a href="https://github.com/04zhujunjie/ZJJForm">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=04zhujunjie&repo=ZJJForm&theme=tokyonight" />
 </a>
-<a href="https://github.com/wangscaler/emqx-extension-examples">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wangscaler&repo=emqx-extension-examples&theme=tokyonight" />
+<a href="https://github.com/04zhujunjie/JJFontFit">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=04zhujunjie&repo=JJFontFit&theme=tokyonight" />
 </a>
 </p>
 
@@ -36,7 +36,7 @@
 
 
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
-<p align = "center">
+<p align = "left">
  <img src="https://activity-graph.herokuapp.com/graph?username=04zhujunjie&theme=react-dark">
 </p>
 
