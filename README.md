@@ -21,28 +21,28 @@
 
 <div style = "justify-content:space-between">
  <a align = left href="https://github.com/04zhujunjie/ZJJPopup">
-  <img align="center" width = "48%"   src="https://github-readme-stats.vercel.app/api/pin/?username=04zhujunjie&repo=ZJJPopup&theme=tokyonight" />
+  <img align="center" width = "47.5%"   src="https://github-readme-stats.vercel.app/api/pin/?username=04zhujunjie&repo=ZJJPopup&theme=tokyonight" />
 </a>
 <a align = right href="https://github.com/04zhujunjie/ZJJTimeCountDown">
-  <img align="center" width = "48%" src="https://github-readme-stats.vercel.app/api/pin/?username=04zhujunjie&repo=ZJJTimeCountDown&theme=tokyonight" />
+  <img align="center" width = "47.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=04zhujunjie&repo=ZJJTimeCountDown&theme=tokyonight" />
 </a>
 </div>
 
 <div style = "justify-content:space-between">
 <a  href="https://github.com/04zhujunjie/ZJJForm">
-  <img align="center" width = "48%"  src="https://github-readme-stats.vercel.app/api/pin/?username=04zhujunjie&repo=ZJJForm&theme=tokyonight" />
+  <img align="center" width = "47.5%"  src="https://github-readme-stats.vercel.app/api/pin/?username=04zhujunjie&repo=ZJJForm&theme=tokyonight" />
 </a>
 <a align = right  href="https://github.com/04zhujunjie/JJFontFit">
-  <img align="center" width = "48%"  src="https://github-readme-stats.vercel.app/api/pin/?username=04zhujunjie&repo=JJFontFit&theme=tokyonight" />
+  <img align="center" width = "47.5%"  src="https://github-readme-stats.vercel.app/api/pin/?username=04zhujunjie&repo=JJFontFit&theme=tokyonight" />
 </a>
  </div>
  
  <div style = "justify-content:space-between">
 <a  href="https://github.com/04zhujunjie/jj-uni">
-  <img align="center" width = "48%"  src="https://github-readme-stats.vercel.app/api/pin/?username=04zhujunjie&repo=jj-uni&theme=tokyonight" />
+  <img align="center" width = "47.5%"  src="https://github-readme-stats.vercel.app/api/pin/?username=04zhujunjie&repo=jj-uni&theme=tokyonight" />
 </a>
 <a align = right  href="https://github.com/04zhujunjie/JJImagePicker">
-  <img align="center" width = "48%"  src="https://github-readme-stats.vercel.app/api/pin/?username=04zhujunjie&repo=JJImagePicker&theme=tokyonight" />
+  <img align="center" width = "47.5%"  src="https://github-readme-stats.vercel.app/api/pin/?username=04zhujunjie&repo=JJImagePicker&theme=tokyonight" />
 </a>
  </div>
  
