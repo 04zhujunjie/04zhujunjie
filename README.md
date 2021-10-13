@@ -19,14 +19,15 @@
  <img width = "35%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=04zhujunjie&theme=tokyonight&langs_count=3"> 
 </p> -->
 <div style = "display: flex;flex-direction:column;align-items:center;justify-content:center">
-<div style = "justify-content:space-between">
+ 
+<div style = "display: flex;justify-content:space-between;margin: 0 auto;">
   <img width = "56%" src="https://github-readme-stats.vercel.app/api?username=04zhujunjie&show_icons=true&hide=contribs&theme=tokyonight&line_height=33" alt="Jeking's github stats" />
  <img width = "35%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=04zhujunjie&theme=tokyonight&langs_count=3"> 
  </div>
  
  </br>
  
- <div style="margin: 0 auto;">
+ <div style="display: flex;flex-direction:column;margin: 0 auto;">
   <div style = "justify-content:space-between">
  <a align = left href="https://github.com/04zhujunjie/ZJJPopup">
   <img align="center" width = "45%"   src="https://github-readme-stats.vercel.app/api/pin/?username=04zhujunjie&repo=ZJJPopup&theme=tokyonight" />
