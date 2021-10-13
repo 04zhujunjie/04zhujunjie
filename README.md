@@ -22,9 +22,9 @@
  
  <div align = center style = "display: flex;justify-content:space-between;">
   <div width = "90%">
-   <p align = left>
+<!--    <p align = left> -->
  <img src=https://komarev.com/ghpvc/?username=04zhujunjie&color=green alt=04zhujunjie />
-</p>
+<!-- </p> -->
   </div>
  </div>
  
