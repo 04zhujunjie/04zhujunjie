@@ -16,16 +16,16 @@
 
 <p align = center>
 <a  href="https://github.com/04zhujunjie/ZJJTimeCountDown">
-  <img align="center" width = "47%" src="https://github-readme-stats.vercel.app/api/pin/?username=04zhujunjie&repo=ZJJTimeCountDown&theme=tokyonight" />
+  <img align="center" width = "47.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=04zhujunjie&repo=ZJJTimeCountDown&theme=tokyonight" />
 </a>
 <a  href="https://github.com/04zhujunjie/ZJJPopup">
-  <img align="center" width = "47%"   src="https://github-readme-stats.vercel.app/api/pin/?username=04zhujunjie&repo=ZJJPopup&theme=tokyonight" />
+  <img align="center" width = "47.5%"   src="https://github-readme-stats.vercel.app/api/pin/?username=04zhujunjie&repo=ZJJPopup&theme=tokyonight" />
 </a>
 <a  href="https://github.com/04zhujunjie/ZJJForm">
-  <img align="center" width = "47%"  src="https://github-readme-stats.vercel.app/api/pin/?username=04zhujunjie&repo=ZJJForm&theme=tokyonight" />
+  <img align="center" width = "47.5%"  src="https://github-readme-stats.vercel.app/api/pin/?username=04zhujunjie&repo=ZJJForm&theme=tokyonight" />
 </a>
 <a  href="https://github.com/04zhujunjie/JJFontFit">
-  <img align="center" width = "47%"  src="https://github-readme-stats.vercel.app/api/pin/?username=04zhujunjie&repo=JJFontFit&theme=tokyonight" />
+  <img align="center" width = "47.5%"  src="https://github-readme-stats.vercel.app/api/pin/?username=04zhujunjie&repo=JJFontFit&theme=tokyonight" />
 </a>
 </p>
 
@@ -38,7 +38,7 @@
 
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
 <p align = center>
- <img width = "100%" src="https://activity-graph.herokuapp.com/graph?username=04zhujunjie&theme=react-dark">
+ <img width = "95%" src="https://activity-graph.herokuapp.com/graph?username=04zhujunjie&theme=react-dark">
 </p>
 
 
