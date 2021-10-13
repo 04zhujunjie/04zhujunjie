@@ -75,9 +75,11 @@
 
 
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
+  </br>
  <div style = "display: flex;flex-direction:column;margin-top:20px">
   <img width = "91%" src="https://activity-graph.herokuapp.com/graph?username=04zhujunjie&theme=react-dark">
  </div>
+
 <!-- <p align = left>
  <img width = "91%" src="https://activity-graph.herokuapp.com/graph?username=04zhujunjie&theme=react-dark">
 </p> -->
