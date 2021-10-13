@@ -21,7 +21,7 @@
 <div align = center>
  
  <div  style = "width=90%">
-  <img src=https://komarev.com/ghpvc/?username=04zhujunjie&color=green alt=04zhujunjie />
+  <img center = left src=https://komarev.com/ghpvc/?username=04zhujunjie&color=green alt=04zhujunjie />
  </div>
  
 <div align = center style = "display: flex;justify-content:space-between;">
