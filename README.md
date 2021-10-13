@@ -24,7 +24,7 @@
  <img width = "35%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=04zhujunjie&theme=tokyonight&langs_count=3"> 
  </div>
  
- <div>
+ <div style="margin: 0 auto;">
   <div style = "justify-content:space-between">
  <a align = left href="https://github.com/04zhujunjie/ZJJPopup">
   <img align="center" width = "45%"   src="https://github-readme-stats.vercel.app/api/pin/?username=04zhujunjie&repo=ZJJPopup&theme=tokyonight" />
