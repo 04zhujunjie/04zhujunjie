@@ -75,7 +75,7 @@
 
 
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
- <div style = "justify-content:space-between;margin-top:20px">
+ <div style = "margin-top:20px">
   <img width = "91%" src="https://activity-graph.herokuapp.com/graph?username=04zhujunjie&theme=react-dark">
  </div>
 <!-- <p align = left>
