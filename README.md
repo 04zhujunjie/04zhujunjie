@@ -37,7 +37,7 @@
 
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
 <p align = "left">
- <img src="https://activity-graph.herokuapp.com/graph?username=04zhujunjie&theme=react-dark">
+ <img width = "400px" src="https://activity-graph.herokuapp.com/graph?username=04zhujunjie&theme=react-dark">
 </p>
 
 
