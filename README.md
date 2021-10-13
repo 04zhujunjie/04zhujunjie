@@ -8,10 +8,11 @@
  <img src=https://komarev.com/ghpvc/?username=04zhujunjie&color=green alt=04zhujunjie />
 </p>
 
-<p align = left>
+<!-- 奖杯的形式统计GitHub -->
+<!-- <p align = left>
   &emsp;&emsp;
  <img src="https://github-profile-trophy.vercel.app/?username=04zhujunjie&theme=tokyonight" />
-</p>
+</p> -->
 
 <p align = center>  
  <img width = "60%" src="https://github-readme-stats.vercel.app/api?username=04zhujunjie&show_icons=true&hide=contribs&theme=tokyonight&line_height=31" alt="Jeking's github stars" />
