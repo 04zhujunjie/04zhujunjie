@@ -20,7 +20,7 @@
 </p> -->
 <div style = "display: flex;flex-direction:column;align-items:center">
 <div style = "justify-content:space-between">
-  <img width = "56%" src="https://github-readme-stats.vercel.app/api?username=04zhujunjie&show_icons=true&hide=contribs&theme=tokyonight&line_height=33" alt="Jeking's github stars" />
+  <img width = "56%" src="https://github-readme-stats.vercel.app/api?username=04zhujunjie&show_icons=true&hide=contribs&theme=tokyonight&line_height=33" alt="Jeking's github stats" />
  <img width = "35%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=04zhujunjie&theme=tokyonight&langs_count=3"> 
  </div>
 
@@ -75,7 +75,7 @@
 
 
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
- <div style = "margin-top:20px">
+ <div style = "display: flex;flex-direction:column;margin-top:20px">
   <img width = "91%" src="https://activity-graph.herokuapp.com/graph?username=04zhujunjie&theme=react-dark">
  </div>
 <!-- <p align = left>
