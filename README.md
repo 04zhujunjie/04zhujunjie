@@ -2,11 +2,12 @@
 - :cn: I’m an iOS developer and web front-end developer in Guangzhou
 - :computer: Focusing on Objective-C、Swift、JavaScript、Vue
 #### Some of my Github Stats
-<p align = left>
-<!--  缩进（添加空格） -->
+
+<!-- &emsp;&emsp; 表示缩进（添加空格） -->
+<!-- <p align = left>
  &emsp;&emsp;
  <img src=https://komarev.com/ghpvc/?username=04zhujunjie&color=green alt=04zhujunjie />
-</p>
+</p> -->
 
 <!-- 奖杯的形式统计GitHub -->
 <!-- <p align = left>
