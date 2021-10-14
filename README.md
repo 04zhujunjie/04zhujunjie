@@ -1,7 +1,7 @@
 #### Hi there, I'm [Jeking!](https://github.com/04zhujunjie/) 👋
 - :cn: I’m an iOS developer and web front-end developer in Guangzhou
 - :computer: Focusing on Objective-C、Swift、JavaScript、Vue
-#### Some of my Github Stats
+<!-- #### Some of my Github Stats -->
 
 <!-- &emsp;&emsp; 表示缩进（添加空格） -->
 <!-- <p align = left>
