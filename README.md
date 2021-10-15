@@ -1,5 +1,7 @@
 #### Hi there, I'm [Jeking!](https://github.com/04zhujunjie/) 👋
 - :cn: I’m an iOS developer and web front-end developer in Guangzhou
+
+<!--   标签shields的官网：https://shields.io 徽章的官网：https://simpleicons.org -->
 - :computer: Focusing on ![Objective-C](https://img.shields.io/badge/-Objective--C-blue?style=plastic&logo=Apple&logoColor=#000000) ![Swift](https://img.shields.io/badge/-Swift-red?style=plastic&logo=Swift&logoColor=#FA7343) ![Vue](https://img.shields.io/badge/-Vue-green?style=plastic&logo=Vue.js&logoColor=#4FC08D) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=plastic&logo=javascript&logoColor=#F7DF1E)
 <!-- #### Some of my Github Stats -->
 
