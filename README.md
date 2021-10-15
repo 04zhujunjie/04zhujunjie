@@ -1,6 +1,6 @@
 #### Hi there, I'm [Jeking!](https://github.com/04zhujunjie/) 👋
 - :cn: I’m an iOS developer and web front-end developer in Guangzhou
-- :computer: Focusing on Objective-C、Swift、JavaScript、Vue ![Objective-C](https://img.shields.io/badge/-Objective--C-blue) ![Swift](https://img.shields.io/badge/-Swift-red) ![Vue](https://img.shields.io/badge/-Vue-green) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+- :computer: Focusing on ![Objective-C](https://img.shields.io/badge/-Objective--C-blue) ![Swift](https://img.shields.io/badge/-Swift-red) ![Vue](https://img.shields.io/badge/-Vue-green) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
 <!-- #### Some of my Github Stats -->
 
 <!-- &emsp;&emsp; 表示缩进（添加空格） -->
