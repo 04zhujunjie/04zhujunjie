@@ -26,6 +26,13 @@
  <!--  换行 -->
  </br>
  
+ <p align = "center">
+  <img align = "center" src = "https://github-readme-streak-stats.herokuapp.com/?user=04zhujunjie&theme=tokyonight" width="90%">
+</p>
+
+<!--  换行 -->
+ </br>
+ 
  <div align = center style="display: flex;flex-direction:column;">
   <div style = "justify-content:space-between">
  <a align = left href="https://github.com/04zhujunjie/ZJJPopup">
