@@ -27,7 +27,7 @@
  </br>
  
  <p align = "center">
-  <img align = "center" src = "https://github-readme-stats.vercel.app/api/wakatime?username=04zhujunjie&theme=tokyonight" width="90%">
+  <img align = "center" src = "https://github-readme-stats.vercel.app/api/wakatime?username=04zhujunjie" width="90%">
 </p>
  <!--  换行 -->
  </br>
