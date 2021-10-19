@@ -36,13 +36,13 @@
  
  <div align = center style="display: flex;flex-direction:column;">
   <div style = "justify-content:space-between">
-   
+    <a align = left href="https://github.com/04zhujunjie/ZJJPopup">
+  <img align="center" width = "45%"   src="https://github-readme-stats.vercel.app/api/pin/?username=04zhujunjie&repo=ZJJPopup&theme=tokyonight" />
+</a>
   <a align = right href="https://github.com/04zhujunjie/ZJJTimeCountDown">
   <img align="center" width = "45%" src="https://github-readme-stats.vercel.app/api/pin/?username=04zhujunjie&repo=ZJJTimeCountDown&theme=tokyonight" />
 </a>
- <a align = left href="https://github.com/04zhujunjie/ZJJPopup">
-  <img align="center" width = "45%"   src="https://github-readme-stats.vercel.app/api/pin/?username=04zhujunjie&repo=ZJJPopup&theme=tokyonight" />
-</a>
+
 </div>
  
 <div style = "justify-content:space-between">
