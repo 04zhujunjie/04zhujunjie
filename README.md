@@ -40,7 +40,7 @@
   <img align="center" width = "45%"   src="https://github-readme-stats.vercel.app/api/pin/?username=04zhujunjie&repo=ZJJPopup&theme=tokyonight" />
 </a>
   <a align = right href="https://github.com/04zhujunjie/ZJJTimeCountDown">
-  <img align="center" width = "45%" src="https://github-readme-stats.vercel.app/api/pin/?username=04zhujunjie&repo=ZJJTimeCountDown&theme=tokyonight" />
+  <img align="center" width = "45%" src="https://github-readme-stats.vercel.app/api/pin/?username=04zhujunjie&repo=ZJJTimeCountDown" />
 </a>
 
 </div>
