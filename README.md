@@ -26,11 +26,10 @@
  <!--  换行 -->
  </br>
  
- <p align = "center">
+<!--  <p align = "center">
   <img align = "center" src = "https://github-readme-stats.vercel.app/api/wakatime?username=04zhujunjie" width="90%">
 </p>
- <!--  换行 -->
- </br>
+ </br> -->
  
  <p align = "center">
 <!--  https://github.com/DenverCoder1/github-readme-streak-stats -->
@@ -42,21 +41,22 @@
  
  <div align = center style="display: flex;flex-direction:column;">
   <div style = "justify-content:space-between">
-    <a align = left href="https://github.com/04zhujunjie/ZJJPopup">
-  <img align="center" width = "45%"  height = "auto" src="https://github-readme-stats.vercel.app/api/pin/?username=04zhujunjie&repo=ZJJPopup&theme=tokyonight" />
-</a>
+
   <a align = right href="https://github.com/04zhujunjie/ZJJTimeCountDown">
   <img align="center" width = "45%" height = "auto" src="https://github-readme-stats.vercel.app/api/pin/?username=04zhujunjie&repo=ZJJTimeCountDown&theme=tokyonight" />
+   <a align = right  href="https://github.com/04zhujunjie/JJFontFit">
+  <img align="center" width = "45%"  src="https://github-readme-stats.vercel.app/api/pin/?username=04zhujunjie&repo=JJFontFit&theme=tokyonight" />
+</a>
 </a>
 
 </div>
  
 <div style = "justify-content:space-between">
+     <a align = left href="https://github.com/04zhujunjie/ZJJPopup">
+  <img align="center" width = "45%"  height = "auto" src="https://github-readme-stats.vercel.app/api/pin/?username=04zhujunjie&repo=ZJJPopup&theme=tokyonight" />
+</a>
 <a  href="https://github.com/04zhujunjie/ZJJForm">
   <img align="center" width = "45%"  src="https://github-readme-stats.vercel.app/api/pin/?username=04zhujunjie&repo=ZJJForm&theme=tokyonight" />
-</a>
-<a align = right  href="https://github.com/04zhujunjie/JJFontFit">
-  <img align="center" width = "45%"  src="https://github-readme-stats.vercel.app/api/pin/?username=04zhujunjie&repo=JJFontFit&theme=tokyonight" />
 </a>
  </div>
  
