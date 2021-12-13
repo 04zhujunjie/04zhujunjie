@@ -61,10 +61,8 @@
  </div>
  
  <div style = "justify-content:space-between">
-<a  href="https://github.com/04zhujunjie/jj-messagebox
-">
-  <img align="center" width = "45%"  src="https://github-readme-stats.vercel.app/api/pin/?username=04zhujunjie&repo=jj-messagebox
-&theme=tokyonight" />
+<a  href="https://github.com/04zhujunjie/jj-messagebox">
+  <img align="center" width = "45%"  src="https://github-readme-stats.vercel.app/api/pin/?username=04zhujunjie&repo=jj-messagebox&theme=tokyonight" />
 </a>
 <a align = right  href="https://github.com/04zhujunjie/JJImagePicker">
   <img align="center" width = "45%"  src="https://github-readme-stats.vercel.app/api/pin/?username=04zhujunjie&repo=JJImagePicker&theme=tokyonight" />
