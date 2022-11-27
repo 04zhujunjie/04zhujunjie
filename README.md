@@ -45,7 +45,7 @@
   <img align="center" width = "45%"  src="https://github-readme-stats.vercel.app/api/pin/?username=04zhujunjie&repo=jj-messagebox&theme=tokyonight" />
 </a>
 <a align = right  href="https://github.com/04zhujunjie/jj-uni-messagebox">
-  <img align="center" width = "45%"  src="https://github-readme-stats.vercel.app/api/pin/?username=04zhujunjie&repo=JJImagePicker&theme=tokyonight" />
+  <img align="center" width = "45%"  src="https://github-readme-stats.vercel.app/api/pin/?username=04zhujunjie&repo=jj-uni-messagebox&theme=tokyonight" />
 </a>
  </div>
  
